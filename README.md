@@ -10,7 +10,7 @@ Ce projet est un **blog** développé avec le framework **Laravel** dans le but 
 - Gérer leur profil utilisateur
 - Voir tous les articles et les lister par catégorie
 
-### Fonctionnalités non implémentées :
+### Fonctionnalités non implémentées (Cause d'erreurs redondantes non résolues):
 - **Laravel Horizon** : Non intégré à cause de la version de Laravel (11.41.2).
 - **Intervention Image** : La gestion des avatars (photo de profil) n'a pas été mise en place.
 
